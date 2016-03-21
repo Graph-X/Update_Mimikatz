@@ -3,5 +3,5 @@ Update-Mimikatz is an effort in efficiency.  Currently it consists of two files 
 
 Update-Mimikatz.sh is a bash script that takes the compiled dll files converts them to base64 strings and then replaces the old dll base64 strings with the new ones.  
 
-Update-Mimikatz.ps1 is an untested powershell port of the bash script. In theory everything should work the same, but I haven't debugged it yet.  If you absolutely need it to work, you might not want to start with this one.
+Update-Mimikatz.ps1 is deleted.  It doesn't work and I'm not even close to getting around to fixing/finishing it.
 
